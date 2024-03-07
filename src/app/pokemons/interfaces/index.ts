@@ -1,6 +1,6 @@
 export { PokemonCard } from './components/PokemonCard'
 export { PokemonsGrid } from './components/PokemonsGrid'
-
+export { FavoritesGrid} from './components/FavoritesGrid'
 
 
 export type { PokemonResponse } from './pokemons-response'
